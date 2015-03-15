@@ -1,0 +1,128 @@
+html,body {
+	font-family: OpenSans-Light;
+	height: 100%;
+}
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: block;
+}
+.clearfix:after {
+   content: " "; 
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+.header {
+	background-color: #101010;
+}
+.navbar {
+	margin-bottom: 0px;
+	position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+.logo {
+	background-image: url("../images/banner.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	min-height: 100%;
+	margin-top: 54px;
+}
+.txt{
+	font-size: 50px;
+	background-color: #fff;
+	opacity: .4;
+}
+.tex {
+	font-size: 30px;
+	color:#fff;
+}
+.app-engine {
+	background-image: url("../images/enterprise-bg.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 10px;
+}
+.app-engine h2{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 50px;
+	font-weight: bold;
+}
+.sto  {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 18px;
+}
+.bol {
+	font-size: 18px;
+}
+.evolution {
+	text-align: center;
+}
+.evo {
+	margin-top: 30px;
+}
+.crowd {
+	background-image: url("../images/more-about.png");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 10px;
+}
+.more {
+	text-align: center;
+	color: #bbbbbb;
+	font-size: 30px;
+}
+a.box {
+	background-color: #d5d5d5;
+	color: #3a3a3a;
+	padding: 18px;
+	font-size: 20px;
+	border-radius: 10px;
+	text-decoration: blink;
+
+} 
+.crowd p {
+	margin-top: 30px;
+}
+.map {
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 10px;
+}
+.dynamic {
+	text-align: center;
+	
+}
+h3 {
+	font-size: 60px;
+	margin-top: 40px;
+}
+
+.mbg {
+	text-align: right;
+}
+.usa {
+   font-size: 30px;
+}
+.problem p {
+	font-size: 30px;
+}
+.apps {
+	font-size: 20px;
+}
+.maps {
+	margin-top: 20px;
+}
+.totbox {
+	margin-top: 30px;
+}
+h3 {
+	font-family: fantasy;
+}
