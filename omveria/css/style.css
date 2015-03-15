@@ -25,6 +25,7 @@ html,body {
     left: 0;
     border: none;
     border-radius: 0;
+    z-index:999;
 }
 .logo {
 	background-image: url("../images/banner.png");
